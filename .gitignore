@@ -97,3 +97,4 @@ ENV/
 *.sqlite3
 *.sql
 *.DS_Store
+static/
